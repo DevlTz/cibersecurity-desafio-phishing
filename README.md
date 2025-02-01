@@ -1,4 +1,4 @@
-# Phishing para captura de senhas do Facebook
+# Phishing para captura de senhas do Facebook / Insta (eu usei o insta)
 
 ### Ferramentas
 
@@ -15,8 +15,10 @@
 - Método de ataque: ```Credential Harvester Attack Method - Select 3 ```
 - Método de ataque: ``` Site Cloner - Select 2 ```
 - Obtendo o endereço da máquina: ``` ifconfig - Alread selected```
+- Ele da um bug visual no insta, mas para teste, rolou.
 - URL para clone: http://www.instagram.com
 
 ### Resutados
 
-![Alt text](./passwd.png "Optional title")
+
+![Alt text](![Screenshot_2025-01-30_16_34_24](https://github.com/user-attachments/assets/81ef4253-9618-499f-9b1f-0fb2400aab5f), "INSTA CLONED PHISHING")
